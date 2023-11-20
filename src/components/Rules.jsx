@@ -7,8 +7,12 @@ import Button from '@mui/material/Button';
 
 const Rules = ({ open, onClose }) => {
   return (
+
+    // Dialog component with rules content
     <Dialog open={open} onClose={onClose}>
       <DialogTitle variant='bold' > Game of Life - Rules </DialogTitle>
+
+      {/* Dialog content with rules explanation */}
       <DialogContent>
         <Typography variant="body1" paragraph textAlign={'left-align'}>
           1. Any live cell with fewer than two live neighbors dies (underpopulation).

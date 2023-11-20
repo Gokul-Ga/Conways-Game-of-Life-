@@ -1,7 +1,7 @@
 {
+  "homepage": "https://gokul-ga.github.io/Conways-Game-of-Life-",
   "name": "game-of-life",
   "version": "0.1.0",
-  "homepage": "https://gokul-ga.github.io/Conway-s-Game-of-Life---Challenge/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
