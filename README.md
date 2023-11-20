@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-Conway's Game of Life is a cellular automaton that demonstrates the evolution of cells based on a set of rules. This project implements the Game of Life using React and Material-UI.
+Conway's Game of Life is a cellular automation that demonstrates the evolution of cells based on a set of rules. This project implements the Game of Life using React and Material-UI.
 
 ## Table of Contents
 
