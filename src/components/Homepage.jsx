@@ -1,8 +1,8 @@
-// Importing React and components from Material-UI and React Router
+
 import { Button } from '@mui/material';
 import React from 'react';
 import { Link } from 'react-router-dom';
-import homepage_bg from '../assets/Homepage_bg.gif'; // Importing the background image
+import homepage_bg from '../assets/Homepage_bg.gif'; 
 import '../App.css';
 
 // Functional component for the Homepage
