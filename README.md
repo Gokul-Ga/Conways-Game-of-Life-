@@ -14,7 +14,7 @@ Conway's Game of Life is a cellular automation that demonstrates the evolution o
 1. Clone the repository:
 
    ```bash
-   https://github.com/Gokul-Ga/Conways-Game-of-Life-.git
+   git clone https://github.com/Gokul-Ga/Conways-Game-of-Life-.git
    ```
 2. Install Dependencies
    ```bash
