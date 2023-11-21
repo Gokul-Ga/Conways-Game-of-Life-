@@ -16,11 +16,7 @@ Conway's Game of Life is a cellular automation that demonstrates the evolution o
    ```bash
    https://github.com/Gokul-Ga/Conways-Game-of-Life-.git
    ```
-2. Navigate to the project directory
-   ```bash
-   cd Conways-Game-of-Life-
-   ```
-3. Install Dependencies
+2. Install Dependencies
    ```bash
    npm install
    ```
